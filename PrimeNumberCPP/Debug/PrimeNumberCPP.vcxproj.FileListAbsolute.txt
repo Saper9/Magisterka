@@ -1,0 +1,2 @@
+D:\studia\magisterka\PrimeNumberCPP\Debug\PrimeNumberCPP.exe
+D:\studia\magisterka\PrimeNumberCPP\Debug\PrimeNumberCPP.pdb
