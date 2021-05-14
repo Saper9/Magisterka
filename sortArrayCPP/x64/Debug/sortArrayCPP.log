@@ -1,0 +1,3 @@
+﻿cl : wiersz polecenia warning D9002: ignorowanie nieznanej opcji „/arch:SSE”
+  sortArrayCPP.cpp
+  sortArrayCPP.vcxproj -> D:\studia\magisterka\sortArrayCPP\x64\Debug\sortArrayCPP.exe

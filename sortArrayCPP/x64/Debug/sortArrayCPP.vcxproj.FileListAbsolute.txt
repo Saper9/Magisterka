@@ -1,0 +1,2 @@
+D:\studia\magisterka\sortArrayCPP\x64\Debug\sortArrayCPP.exe
+D:\studia\magisterka\sortArrayCPP\x64\Debug\sortArrayCPP.pdb

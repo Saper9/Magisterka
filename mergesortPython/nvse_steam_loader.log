@@ -1,0 +1,33 @@
+nvse loader 05010060 (steam) 01D747F98D225214
+GetSystemTimeAsFileTime IAT = 00FDF184
+original GetSystemTimeAsFileTime = 76F95E60
+patched GetSystemTimeAsFileTime = 6F9F2820
+GetStartupInfoA IAT = 00FDF190
+original GetStartupInfoA = 76FA20B0
+patched GetStartupInfoA = 6F9F2840
+InstallHook: thread = 21036 retaddr = 00EDDBD7
+appPath = D:\steam\steamapps\common\Fallout New Vegas enplczru\FalloutNV.exe
+dwSignature = FEEF04BD
+dwStrucVersion = 00010000
+dwFileVersionMS = 00010004
+dwFileVersionLS = 0000020D
+dwProductVersionMS = 00010004
+dwProductVersionLS = 0000020D
+dwFileFlagsMask = 00000017
+dwFileFlags = 00000000
+dwFileOS = 00000004
+dwFileType = 00000001
+dwFileSubtype = 00000000
+dwFileDateMS = 00000000
+dwFileDateLS = 00000000
+version = 000100040000020D
+steam exe
+dll = D:\studia\magisterka\mergesortPython\nvse_1_4.dll
+old winmain = 0086A850
+fallout root = D:\steam\steamapps\common\Fallout New Vegas enplczru\
+config path = D:\steam\steamapps\common\Fallout New Vegas enplczru\Data\NVSE\nvse_config.ini
+overriding memory pool sizes
+default heap = 400MB
+OnHook: thread = 21036
+couldn't load dll
+calling winmain
