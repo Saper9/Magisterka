@@ -1,0 +1,2 @@
+D:\studia\magisterka\database\cppDatabase\x64\Debug\cppDatabase.exe
+D:\studia\magisterka\database\cppDatabase\x64\Debug\cppDatabase.pdb

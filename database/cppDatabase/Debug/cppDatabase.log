@@ -1,0 +1,3 @@
+﻿  cppDatabase.cpp
+D:\studia\magisterka\database\cppDatabase\cppDatabase.cpp(14,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  cppDatabase.vcxproj -> D:\studia\magisterka\database\cppDatabase\Debug\cppDatabase.exe
